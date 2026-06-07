@@ -1,0 +1,3 @@
+[submodule "bff"]
+	path = bff
+	url = https://github.com/devdavidalonso/ecs-manager-bff.git
