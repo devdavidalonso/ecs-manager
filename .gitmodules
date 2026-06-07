@@ -1,3 +1,6 @@
 [submodule "bff"]
 	path = bff
 	url = https://github.com/devdavidalonso/ecs-manager-bff.git
+[submodule "front"]
+	path = front
+	url = https://github.com/devdavidalonso/ecs-manager-front.git
